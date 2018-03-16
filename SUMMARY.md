@@ -4,9 +4,9 @@
 
 * [作者的话](README.md)
 
-## 第1部——起源
+## 第1部　起源
 
-* [第1章——万恶之源](di-1-bu/di-1-zhang.md)
-* [第2章——步兵队长的生存现状](di-1-bu/di-2-zhang.md)
-* [第3章](di-1-bu/di-3-zhang.md)
+* [第1章　万恶之源](Volume 1/Chapter 1.md)
+* [第2章　步兵队长的生存现状](Volume 1/Chapter 2.md)
+* [第3章](Volume 1/Chapter 3.md)
 
