@@ -4,5 +4,5 @@
 
 欢迎进入Github的Wiki页面查询本作品的相关信息。
 
-**警告：禁止进入Github的Issue或Project页面。否则你会被剧透得连母亲都不认识。**
+**警告：禁止进入Github的Issue或Project页面。否则您会被剧透得连您母上大人都不认识。**
 
